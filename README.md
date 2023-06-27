@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Diego Pedro</h1>
-<h3 align="center">Formado em bacharelato de CIência da Computação em 2021. Um ano de experiência em desenvolvimento web fullstack, usando ReactJS para produção de sites front-end e consumir apis criadas no backend, PHP Laravel para sistemas completos de todos os tipos. E um ano como DevOps, usando AWS, GCP, estudando e aplicando estrutura como código, gerenciamento de servidores em nuvem. Acostumado a trabalhar com método ágeis, usar microsserviços igual Git.</h3>
+<h3 align="center">Formado em bacharelado de CIência da Computação em 2021. Um ano de experiência em desenvolvimento web fullstack, usando ReactJS para produção de sites front-end e consumir apis criadas no backend, PHP Laravel para sistemas completos de todos os tipos. E um ano como DevOps, usando AWS, GCP, estudando e aplicando estrutura como código, gerenciamento de servidores em nuvem. Acostumado a trabalhar com método ágeis, usar microsserviços igual Git.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didiegopds2684&label=Profile%20views&color=0e75b6&style=flat" alt="didiegopds2684" /> </p>
 
